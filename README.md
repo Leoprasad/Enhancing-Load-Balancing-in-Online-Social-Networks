@@ -10,7 +10,7 @@ perturbation mechanism, and a complex objective function
 to better balance load distribution among servers. 
 The enhanced greedy phase incorporates a prioritization 
 strategy for user reassignments, which, though increasing 
-computational overhead, allows for more strategic decisionmaking. 
+computational overhead, allows for more strategic decision making. 
 This phase now involves sorting and prioritizing 
 users based on specific criteria, moving beyond the simpler 
 approach of the original algorithm. Additionally, we have 
